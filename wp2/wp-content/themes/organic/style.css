@@ -1,0 +1,13 @@
+/*
+    Theme Name: organic
+    Theme URI: http://informatica.ieszaidinvergeles.org:9026/wp2
+    Author: Ignacio
+    Author URI: http://informatica.ieszaidinvergeles.org:9026/wp2/wp-admin
+    Description: Organic food theme
+    Version: 1.0
+*/
+@import url(//fonts.googleapis.com/css?family=Poppins:300,400,500);
+@import url("assets/css/bootstrap.css");
+@import url("assets/css/fonts.css");
+@import url("assets/css/style.css");
+@import url("assets/css/organic.css");

@@ -1,0 +1,1 @@
+<h1>Correo informativo {{ $name2 }}</h1>

@@ -1,0 +1,10 @@
+<?php
+if($session->isLogged()) {
+    ?>
+    <a href="usuario/logout.php" class="btn btn-success">Logout</a>
+    <?php
+} else {
+    ?>
+    <a href="usuario/login.php" class="btn btn-success">Login</a>
+    <?php
+}
